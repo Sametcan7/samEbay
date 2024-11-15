@@ -3,8 +3,8 @@
     npm install 
     npm run dev
 
-### Live: sam-ebay.vercel.app
 
+### [Live](sam-ebay.vercel.app)
 ### Index
 ![index](https://github.com/user-attachments/assets/a6b098d6-dcf3-4b9c-a9ea-441e525170b7)
 
